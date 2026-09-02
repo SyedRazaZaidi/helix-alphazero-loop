@@ -1,0 +1,24 @@
+{"game": 1, "env": "gomoku", "buffer": 52, "moves": 52, "loss": 5.353860855102539, "policy_loss": 4.158005714416504, "value_loss": 1.195854902267456}
+{"game": 2, "env": "gomoku", "buffer": 73, "moves": 21, "loss": 4.345849990844727, "policy_loss": 3.830034017562866, "value_loss": 0.5158159732818604}
+{"game": 3, "env": "gomoku", "buffer": 114, "moves": 41, "loss": 4.375179290771484, "policy_loss": 3.7126383781433105, "value_loss": 0.6625406742095947}
+{"game": 4, "env": "gomoku", "buffer": 134, "moves": 20, "loss": 4.160099029541016, "policy_loss": 3.743140459060669, "value_loss": 0.41695839166641235}
+{"game": 5, "env": "gomoku", "buffer": 171, "moves": 37, "loss": 4.218912124633789, "policy_loss": 3.747957229614258, "value_loss": 0.4709548056125641}
+{"game": 6, "env": "gomoku", "buffer": 212, "moves": 41, "loss": 4.264944553375244, "policy_loss": 3.850493907928467, "value_loss": 0.4144504964351654}
+{"game": 7, "env": "gomoku", "buffer": 266, "moves": 54, "loss": 4.503791332244873, "policy_loss": 3.8690357208251953, "value_loss": 0.6347556114196777}
+{"game": 8, "env": "gomoku", "buffer": 302, "moves": 36, "loss": 4.3514404296875, "policy_loss": 3.8482747077941895, "value_loss": 0.5031657218933105}
+{"game": 9, "env": "gomoku", "buffer": 326, "moves": 24, "loss": 4.144968509674072, "policy_loss": 3.8930726051330566, "value_loss": 0.25189605355262756}
+{"game": 10, "env": "gomoku", "buffer": 351, "moves": 25, "loss": 4.2311224937438965, "policy_loss": 3.842561721801758, "value_loss": 0.3885606825351715}
+{"game": 11, "env": "gomoku", "buffer": 391, "moves": 40, "loss": 4.000705242156982, "policy_loss": 3.7755069732666016, "value_loss": 0.22519837319850922}
+{"game": 12, "env": "gomoku", "buffer": 429, "moves": 38, "loss": 3.8813488483428955, "policy_loss": 3.736783266067505, "value_loss": 0.14456559717655182, "vs_random": {"wins": 6, "draws": 0, "losses": 2, "games": 8}}
+{"game": 13, "env": "gomoku", "buffer": 460, "moves": 31, "loss": 3.935767650604248, "policy_loss": 3.709092855453491, "value_loss": 0.2266749143600464}
+{"game": 14, "env": "gomoku", "buffer": 495, "moves": 35, "loss": 3.9902851581573486, "policy_loss": 3.6928367614746094, "value_loss": 0.29744842648506165}
+{"game": 15, "env": "gomoku", "buffer": 524, "moves": 29, "loss": 3.8749709129333496, "policy_loss": 3.708954095840454, "value_loss": 0.16601672768592834}
+{"game": 16, "env": "gomoku", "buffer": 561, "moves": 37, "loss": 3.9876153469085693, "policy_loss": 3.7340853214263916, "value_loss": 0.25352993607521057}
+{"game": 17, "env": "gomoku", "buffer": 607, "moves": 46, "loss": 3.840087652206421, "policy_loss": 3.6573400497436523, "value_loss": 0.18274760246276855}
+{"game": 18, "env": "gomoku", "buffer": 634, "moves": 27, "loss": 3.8266236782073975, "policy_loss": 3.6936683654785156, "value_loss": 0.1329553872346878}
+{"game": 19, "env": "gomoku", "buffer": 660, "moves": 26, "loss": 3.830739974975586, "policy_loss": 3.65169095993042, "value_loss": 0.1790490448474884}
+{"game": 20, "env": "gomoku", "buffer": 697, "moves": 37, "loss": 3.872737169265747, "policy_loss": 3.6479439735412598, "value_loss": 0.22479313611984253}
+{"game": 21, "env": "gomoku", "buffer": 731, "moves": 34, "loss": 3.967944622039795, "policy_loss": 3.6440982818603516, "value_loss": 0.3238464593887329}
+{"game": 22, "env": "gomoku", "buffer": 772, "moves": 41, "loss": 3.9452059268951416, "policy_loss": 3.585087537765503, "value_loss": 0.36011844873428345}
+{"game": 23, "env": "gomoku", "buffer": 795, "moves": 23, "loss": 3.9425582885742188, "policy_loss": 3.6059741973876953, "value_loss": 0.336584210395813}
+{"game": 24, "env": "gomoku", "buffer": 828, "moves": 33, "loss": 3.938113212585449, "policy_loss": 3.5145227909088135, "value_loss": 0.4235903024673462, "vs_random": {"wins": 4, "draws": 0, "losses": 4, "games": 8}}

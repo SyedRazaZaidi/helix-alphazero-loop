@@ -1,0 +1,24 @@
+{"game": 1, "env": "othello", "buffer": 33, "moves": 33, "loss": 4.787424087524414, "policy_loss": 3.7035329341888428, "value_loss": 1.0838912725448608}
+{"game": 2, "env": "othello", "buffer": 66, "moves": 33, "loss": 4.569424152374268, "policy_loss": 3.436168670654297, "value_loss": 1.1332553625106812}
+{"game": 3, "env": "othello", "buffer": 99, "moves": 33, "loss": 4.14735221862793, "policy_loss": 3.3634886741638184, "value_loss": 0.7838633060455322}
+{"game": 4, "env": "othello", "buffer": 131, "moves": 32, "loss": 3.83304500579834, "policy_loss": 3.2412753105163574, "value_loss": 0.5917695760726929}
+{"game": 5, "env": "othello", "buffer": 163, "moves": 32, "loss": 3.500465154647827, "policy_loss": 3.10888409614563, "value_loss": 0.39158111810684204}
+{"game": 6, "env": "othello", "buffer": 195, "moves": 32, "loss": 3.6722469329833984, "policy_loss": 3.0821497440338135, "value_loss": 0.5900971293449402}
+{"game": 7, "env": "othello", "buffer": 217, "moves": 22, "loss": 3.979564905166626, "policy_loss": 3.155456781387329, "value_loss": 0.8241081237792969}
+{"game": 8, "env": "othello", "buffer": 250, "moves": 33, "loss": 3.5583202838897705, "policy_loss": 2.982977867126465, "value_loss": 0.5753424167633057}
+{"game": 9, "env": "othello", "buffer": 282, "moves": 32, "loss": 3.4946181774139404, "policy_loss": 2.9969277381896973, "value_loss": 0.497690349817276}
+{"game": 10, "env": "othello", "buffer": 314, "moves": 32, "loss": 3.629826545715332, "policy_loss": 2.976494789123535, "value_loss": 0.6533316373825073}
+{"game": 11, "env": "othello", "buffer": 347, "moves": 33, "loss": 3.760143995285034, "policy_loss": 2.9510674476623535, "value_loss": 0.8090764880180359}
+{"game": 12, "env": "othello", "buffer": 379, "moves": 32, "loss": 3.6234636306762695, "policy_loss": 2.9917619228363037, "value_loss": 0.6317018270492554, "vs_random": {"wins": 3, "draws": 0, "losses": 5, "games": 8}}
+{"game": 13, "env": "othello", "buffer": 412, "moves": 33, "loss": 3.508678913116455, "policy_loss": 2.8940787315368652, "value_loss": 0.6146001219749451}
+{"game": 14, "env": "othello", "buffer": 445, "moves": 33, "loss": 3.4102084636688232, "policy_loss": 2.908095121383667, "value_loss": 0.502113401889801}
+{"game": 15, "env": "othello", "buffer": 477, "moves": 32, "loss": 3.4103448390960693, "policy_loss": 2.8474276065826416, "value_loss": 0.5629172325134277}
+{"game": 16, "env": "othello", "buffer": 509, "moves": 32, "loss": 3.1446444988250732, "policy_loss": 2.7500627040863037, "value_loss": 0.3945818841457367}
+{"game": 17, "env": "othello", "buffer": 542, "moves": 33, "loss": 3.2365593910217285, "policy_loss": 2.812126636505127, "value_loss": 0.424432635307312}
+{"game": 18, "env": "othello", "buffer": 574, "moves": 32, "loss": 3.2791740894317627, "policy_loss": 2.792177677154541, "value_loss": 0.4869963526725769}
+{"game": 19, "env": "othello", "buffer": 607, "moves": 33, "loss": 3.146486282348633, "policy_loss": 2.8121132850646973, "value_loss": 0.33437296748161316}
+{"game": 20, "env": "othello", "buffer": 640, "moves": 33, "loss": 2.945935010910034, "policy_loss": 2.687244415283203, "value_loss": 0.2586905062198639}
+{"game": 21, "env": "othello", "buffer": 673, "moves": 33, "loss": 3.545647382736206, "policy_loss": 2.9052281379699707, "value_loss": 0.6404192447662354}
+{"game": 22, "env": "othello", "buffer": 706, "moves": 33, "loss": 3.2130985260009766, "policy_loss": 2.6859545707702637, "value_loss": 0.5271439552307129}
+{"game": 23, "env": "othello", "buffer": 738, "moves": 32, "loss": 3.296420097351074, "policy_loss": 2.7377469539642334, "value_loss": 0.558673083782196}
+{"game": 24, "env": "othello", "buffer": 770, "moves": 32, "loss": 3.0745749473571777, "policy_loss": 2.715322971343994, "value_loss": 0.35925188660621643, "vs_random": {"wins": 3, "draws": 0, "losses": 5, "games": 8}}

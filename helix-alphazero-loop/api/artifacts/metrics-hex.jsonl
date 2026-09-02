@@ -1,0 +1,24 @@
+{"game": 1, "env": "hex", "buffer": 30, "moves": 30, "loss": 4.69277286529541, "policy_loss": 3.621504068374634, "value_loss": 1.0712685585021973}
+{"game": 2, "env": "hex", "buffer": 60, "moves": 30, "loss": 3.9391162395477295, "policy_loss": 3.532057046890259, "value_loss": 0.4070592522621155}
+{"game": 3, "env": "hex", "buffer": 86, "moves": 26, "loss": 3.573962688446045, "policy_loss": 3.4677493572235107, "value_loss": 0.10621338337659836}
+{"game": 4, "env": "hex", "buffer": 105, "moves": 19, "loss": 3.982994794845581, "policy_loss": 3.3557794094085693, "value_loss": 0.6272154450416565}
+{"game": 5, "env": "hex", "buffer": 131, "moves": 26, "loss": 3.6592249870300293, "policy_loss": 3.3792638778686523, "value_loss": 0.2799610197544098}
+{"game": 6, "env": "hex", "buffer": 158, "moves": 27, "loss": 3.8648552894592285, "policy_loss": 3.3958792686462402, "value_loss": 0.4689759314060211}
+{"game": 7, "env": "hex", "buffer": 185, "moves": 27, "loss": 3.9921367168426514, "policy_loss": 3.4700076580047607, "value_loss": 0.5221291184425354}
+{"game": 8, "env": "hex", "buffer": 211, "moves": 26, "loss": 3.737450122833252, "policy_loss": 3.387934684753418, "value_loss": 0.34951531887054443}
+{"game": 9, "env": "hex", "buffer": 237, "moves": 26, "loss": 3.7771496772766113, "policy_loss": 3.403083562850952, "value_loss": 0.37406623363494873}
+{"game": 10, "env": "hex", "buffer": 260, "moves": 23, "loss": 3.5950725078582764, "policy_loss": 3.383108139038086, "value_loss": 0.21196433901786804}
+{"game": 11, "env": "hex", "buffer": 290, "moves": 30, "loss": 3.546950101852417, "policy_loss": 3.4103379249572754, "value_loss": 0.1366121619939804}
+{"game": 12, "env": "hex", "buffer": 314, "moves": 24, "loss": 3.627706527709961, "policy_loss": 3.4438862800598145, "value_loss": 0.18382029235363007, "vs_random": {"wins": 6, "draws": 0, "losses": 2, "games": 8}}
+{"game": 13, "env": "hex", "buffer": 339, "moves": 25, "loss": 3.6043217182159424, "policy_loss": 3.36710524559021, "value_loss": 0.2372165471315384}
+{"game": 14, "env": "hex", "buffer": 367, "moves": 28, "loss": 3.5962650775909424, "policy_loss": 3.4262547492980957, "value_loss": 0.17001038789749146}
+{"game": 15, "env": "hex", "buffer": 396, "moves": 29, "loss": 3.92446231842041, "policy_loss": 3.4028735160827637, "value_loss": 0.5215886831283569}
+{"game": 16, "env": "hex", "buffer": 426, "moves": 30, "loss": 3.787393569946289, "policy_loss": 3.4109835624694824, "value_loss": 0.37641000747680664}
+{"game": 17, "env": "hex", "buffer": 454, "moves": 28, "loss": 3.613884210586548, "policy_loss": 3.3278136253356934, "value_loss": 0.28607067465782166}
+{"game": 18, "env": "hex", "buffer": 484, "moves": 30, "loss": 3.749087333679199, "policy_loss": 3.3398401737213135, "value_loss": 0.4092472195625305}
+{"game": 19, "env": "hex", "buffer": 510, "moves": 26, "loss": 3.697056770324707, "policy_loss": 3.3095550537109375, "value_loss": 0.38750168681144714}
+{"game": 20, "env": "hex", "buffer": 526, "moves": 16, "loss": 4.094085216522217, "policy_loss": 3.372605800628662, "value_loss": 0.721479594707489}
+{"game": 21, "env": "hex", "buffer": 545, "moves": 19, "loss": 3.8066866397857666, "policy_loss": 3.355323314666748, "value_loss": 0.45136338472366333}
+{"game": 22, "env": "hex", "buffer": 563, "moves": 18, "loss": 3.6885790824890137, "policy_loss": 3.317852020263672, "value_loss": 0.370727002620697}
+{"game": 23, "env": "hex", "buffer": 594, "moves": 31, "loss": 3.844977617263794, "policy_loss": 3.381800413131714, "value_loss": 0.4631771743297577}
+{"game": 24, "env": "hex", "buffer": 611, "moves": 17, "loss": 3.6883151531219482, "policy_loss": 3.2977914810180664, "value_loss": 0.39052367210388184, "vs_random": {"wins": 5, "draws": 0, "losses": 3, "games": 8}}
